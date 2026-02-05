@@ -1,7 +1,7 @@
 body {
   margin: 0; 
   font-family: Arial, sans-serif;
-
+}
 /* header */
 header {
   background-color: lightblue;
@@ -47,4 +47,17 @@ color: white;
 text-align: center;
 padding: 15px; 
   } 
+
+
+/* my hobbies page */
+
+.hobbies-container {
+display:flex;
+justify-content: center;
+gap:40px;
+margin-top: 40px
+
 }
+
+
+
